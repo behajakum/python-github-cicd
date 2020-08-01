@@ -1,7 +1,4 @@
 python
 flask
-pep8
 pylint
 pytest
-pytest-cov
-pytest-pep8
