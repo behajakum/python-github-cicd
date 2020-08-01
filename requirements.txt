@@ -1,33 +1,7 @@
-apipkg==1.5
-astroid @ file:///opt/concourse/worker/volumes/live/b22b518b-f584-4586-5ee9-55bfa4fca96e/volume/astroid_1592495912194/work
-attrs==19.3.0
-certifi==2020.6.20
-click==7.1.2
-coverage==5.0
-execnet==1.7.1
-Flask==1.1.2
-importlib-metadata @ file:///opt/concourse/worker/volumes/live/84197498-cbc0-4436-7ce0-03c4490b7a28/volume/importlib-metadata_1593446431408/work
-isort==4.3.21
-itsdangerous==1.1.0
-Jinja2==2.11.2
-lazy-object-proxy==1.4.3
-MarkupSafe==1.1.1
-mccabe==0.6.1
-more-itertools==8.4.0
-packaging==20.4
-pep8==1.7.1
-pluggy==0.13.1
-py @ file:///tmp/build/80754af9/py_1593446248552/work
-pylint @ file:///opt/concourse/worker/volumes/live/42ede439-2571-4cb2-513c-394625d2381b/volume/pylint_1592496039330/work
-pyparsing==2.4.7
-pytest==5.4.3
-pytest-cache==1.0
-pytest-cov @ file:///tmp/build/80754af9/pytest-cov_1593202544670/work
-pytest-pep8 @ file:///tmp/build/80754af9/pytest-pep8_1594418834501/work
-six==1.15.0
-toml @ file:///tmp/build/80754af9/toml_1592853716807/work
-typed-ast==1.4.1
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
-Werkzeug==1.0.1
-wrapt==1.11.2
-zipp==3.1.0
+python
+flask
+pep8
+pylint
+pytest
+pytest-cov
+pytest-pep8
