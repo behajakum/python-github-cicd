@@ -11,10 +11,11 @@ on:
 
 jobs:
   build:
-
+    name: Set up job on ubuntu server
     runs-on: ubuntu-latest
 
     steps:
+    - name: Run actions/checkout@v2-checking
     - uses: actions/checkout@v2
     - name: Set up Python 3.8
       uses: actions/setup-python@v2
